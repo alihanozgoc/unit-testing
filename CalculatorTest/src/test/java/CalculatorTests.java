@@ -45,5 +45,4 @@ public class CalculatorTests {
     public static void tearDownClass(){
         System.out.println("Teardown class method executed!");
     }
-
 }
